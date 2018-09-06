@@ -1,0 +1,18 @@
+{
+  "name": "as3node",
+  "version": "1.0.0",
+  "description": "CMPT433 AS3",
+  "main": "beatbox_ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sabrina Bolognese",
+  "dependencies": {
+    "bootstrap": "~4.1.1",
+    "chart.js": "^2.7.2",
+    "jquery": "~1.9.1",
+    "mime": "~1.2.7",
+    "popper.js": "~1.14.3"
+  },
+  "license": "ISC"
+}

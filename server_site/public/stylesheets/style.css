@@ -1,0 +1,50 @@
+
+
+#error-box {
+	display: none;
+}
+
+#success-box {
+	display:none;
+}
+
+#warning-box {
+	display:none;
+}
+
+#info-box {
+	display:none;
+}
+
+#chooseStallForm0{
+	display:none;
+}
+
+#warning-maintenance-box{
+	display:none;
+}
+
+#error-box-bad-pass{
+	display:none;
+}
+#info-box-service-complete{
+	display: none;
+}
+
+.onlyAdminMode{
+	display:none;
+}
+
+#maintenanceHolder0{
+	color:white;
+}
+
+
+#chooseStallForm1{
+	display:none;
+}
+
+
+#maintenanceHolder1{
+	color:white;
+}
